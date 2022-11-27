@@ -57,3 +57,5 @@ droid.set_year('2018')
 droid.set_brand('Honor')
 droid.set_model('64654')
 droid.info()
+
+print('Hello World')
